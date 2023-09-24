@@ -43,9 +43,9 @@ The project uses the following libraries in R for data analysis and forecasting:
 
 ## File Dictionary
 
-The Rmd file contains the code for the entire analysis
-The html and PDF give the code output
-A brief analysis report has also been included
+- The Rmd file contains the code for the entire analysis
+- The html and PDF give the code output
+- A brief analysis report has also been included
 
 ## Authors
 
