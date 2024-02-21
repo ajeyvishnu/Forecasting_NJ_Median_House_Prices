@@ -1,8 +1,8 @@
-# Forecasting Median House Sales in NJ, USA
+# Forecasting Median House Prices in NJ, USA
 
 ## Overview
 
-This project uses time series forecasting techniques to forecast the median house sales in New Jersey, USA. The data used in this project is obtained from Zillow's listing data for properties in New Jersey. The main objective is to identify the best forecasting method for the given time series data and accurately predict future median house prices.
+This project uses time series forecasting techniques to forecast the median house prices in New Jersey, USA. The data used in this project is obtained from Zillow's listing data for properties in New Jersey. The main objective is to identify the best forecasting method for the given time series data and accurately predict future median house prices.
 
 ## Data Source
 
